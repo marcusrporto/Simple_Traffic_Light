@@ -11,7 +11,7 @@ presente na Figura 2):
 2) 03 LEDs (vermelho, amarelo e verde).
 3) 03 Resistores de 330 Ω.
 
-#Os requisitos para a realização desta atividade são:
+# Os requisitos para a realização desta atividade são:
 1) O acionamento dos LEDs (sinais do semáforo) deve iniciar na
 cor vermelha, conforme orientação presente na Figura 1,
 alterando para amarela e, em seguida, verde.
@@ -27,3 +27,7 @@ a critério do discente.
 5) Com o emprego da Ferramenta Educacional BitDogLab, faça
 um experimento com o código deste exercício utilizando o LED
 RGB – GPIOs 11, 12 e 13.
+Vídeo execução:
+https://drive.google.com/file/d/19eFre4PA8ISxNxzOJ3fWKmM6r3qghRcF/view?usp=sharing
+
+
